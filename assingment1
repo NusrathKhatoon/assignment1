@@ -1,0 +1,26 @@
+HTML = is a markup language  used to create and maintain content, it mainly contains tags ,tages are predefined in html
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+FAKE GOOGLE
+        </title>
+
+    </head>
+    <body>
+ <h1>This is the text</h1>
+ <h2>Lets Upgrade</h2>
+ <h3>Lets Upgrade</h3>
+ <h4>Lets Upgrade</h4>
+ <h5>Lets Upgrade</h5>
+ <h6>Lets Upgrade</h6>
+ <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore, blanditiis dolor? Doloribus dolore harum sit debitis porro, repellat ex impedit perspiciatis minima atque ducimus ullam eos non! Repudiandae, molestias pariatur?
+</p>
+<pre>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore, blanditiis dolor? Doloribus dolore harum sit debitis porro, repellat ex impedit perspiciatis minima atque ducimus ullam eos non! Repudiandae, molestias pariatur?
+</pre>
+
+ 
+ 
+
+    </body>
+</html>
